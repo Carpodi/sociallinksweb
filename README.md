@@ -1,3 +1,3 @@
-# customsociallinksweb
+# Socials
 
-Web Custom Social Links
+My Social Links Web. 

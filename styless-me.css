@@ -89,3 +89,29 @@ body {
     -webkit-transform: rotate(40deg);
             transform: rotate(40deg);
   }
+  @media only screen and (max-width: 1111px) {
+    .container {
+      width: 90%;
+    }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .container {
+      width: 97%;
+    }
+  
+    .module {
+      width: 48%;
+    }
+  }
+  
+  /* Phone */
+  @media only screen and (max-width: 768px) {
+    .container {
+      width: 97%;
+    }
+  
+    .module {
+      width: 100%;
+    }
+  }
